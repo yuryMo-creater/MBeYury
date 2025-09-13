@@ -11,4 +11,3 @@ A premium feminine banking website that combines sophisticated design with power
 - Beautiful hover effects and transitions
 
 ## Project Structure
-
